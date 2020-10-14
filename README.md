@@ -21,7 +21,7 @@ Same as binary search but uses recursive functions and algorithm.
 #### 9. Get
 Returns the element from the given index.
 #### 10. Set
-Changes the value of given index. (Not to be confused with Insert)
+Changes the value of given index.
 #### 11. Max
 Returns the biggest value.
 #### 12. Min
