@@ -1,5 +1,5 @@
 # Array Menu
-Array menu is a simple C program that contains number of operations which can be used on arrays. I created it to get better understanding of arrays and abstract data types. 
+Array menu is a simple C/C++ program that contains number of operations which can be used on arrays. I created it to get better understanding of arrays and abstract data types. 
 
 ## Operations
 #### 1. Display 
